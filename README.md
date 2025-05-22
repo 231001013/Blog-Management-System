@@ -1,6 +1,8 @@
 # ✍️ Scribblist – A Minimal Blogging Platform
 
-![Scribblist Preview]([https://your-image-link.com/scribblist.pn](https://github.com/BHAGYALAKSHMIMAHESHBABU/Blogger-Management-System/issues/1#issue-3083932587)g)
+![Scribblist Preview](https://github.com/user-attachments/assets/b3239ca4-6195-450b-ba19-d59990bc339a)
+
+
 
 **Scribblist** is a simple and elegant blogging site built using HTML, CSS, and JavaScript, powered by Node.js and Firebase Firestore. It allows users to write, edit, and view blogs in a clean, distraction-free interface.
 
