@@ -1,4 +1,4 @@
-# ✍️ Scribblist – A Minimal Blogging Platform
+# Scribblist – A Minimal Blogging Platform
 
 ![Scribblist Preview](https://github.com/user-attachments/assets/b3239ca4-6195-450b-ba19-d59990bc339a)
 
@@ -8,17 +8,17 @@
 
 ---
 
-## 🚩 Features
+## Features
 
-- 📝 Dynamic blog page generation  
-- ✍️ Rich text editor with headings, paragraphs, and images  
-- 🔒 Secure blog publishing via admin login  
-- 📚 “Read more” blog section for better engagement  
-- 📱 Responsive and accessible user interface  
+-  Dynamic blog page generation  
+-  Rich text editor with headings, paragraphs, and images  
+-  Secure blog publishing via admin login  
+-  “Read more” blog section for better engagement  
+-  Responsive and accessible user interface  
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 - **Frontend**: HTML, CSS, JavaScript  
 - **Backend**: Node.js, Express  
@@ -26,7 +26,7 @@
 
 ---
 
-## 📦 Installation
+## Installation
 
 ```bash
 cd scribblist
